@@ -92,46 +92,40 @@ dist
 .git
 
 
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+### See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# dependencies
+### dependencies
 /node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
 .vscode
 
-# testing
+### testing
 /coverage
 
-# next.js
+### next.js
 /.next/
 /out/
 
-# production
+### production
 /build
 
-# misc
+### misc
 .DS_Store
 *.pem
 
-# debug
+### debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# local env files
+### local env files
 .env*.local
 
-# vercel
+### vercel
 .vercel
 
-# typescript
+### typescript
 *.tsbuildinfo
 next-env.d.ts
-
-
-
-
-
-
